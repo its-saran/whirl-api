@@ -1,8 +1,8 @@
-# whirl API - Serverless API Gateway
+# Whirl API - Serverless API Gateway
 
 ![Project Cover](/images/whirl_api.jpg)
 
-whirl API is a serverless API gateway built using Node.js and Express, utilizing Axios for seamless HTTP requests. It is designed to be deployed on Google Cloud Functions and utilizes the Functions Framework for easy deployment and scaling.
+Whirl API is a serverless API gateway built using Node.js and Express, utilizing Axios for seamless HTTP requests. It is designed to be deployed on Google Cloud Functions and utilizes the Functions Framework for easy deployment and scaling.
 
 ## Features
 
@@ -51,13 +51,13 @@ Before you begin, ensure you have the following installed:
 
     - Example endpoints are shown in config.json
 
-4. Run the whirl API locally:
+4. Run the Whirl API Gateway locally:
 
     ```bash=
     npm start
     ```
 
-    The API will be accessible at http://localhost:3000.
+    The gateway will be accessible at http://localhost:3000.
 
 ## Deployment
 
