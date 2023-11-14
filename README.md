@@ -1,8 +1,8 @@
-# Whril API - Serverless API Gateway
+# whirl API - Serverless API Gateway
 
-![Project Cover](/images/whril_api.jpg)
+![Project Cover](/images/whirl_api.jpg)
 
-Whril API is a serverless API gateway built using Node.js and Express, utilizing Axios for seamless HTTP requests. It is designed to be deployed on Google Cloud Functions and utilizes the Functions Framework for easy deployment and scaling.
+whirl API is a serverless API gateway built using Node.js and Express, utilizing Axios for seamless HTTP requests. It is designed to be deployed on Google Cloud Functions and utilizes the Functions Framework for easy deployment and scaling.
 
 ## Features
 
@@ -16,7 +16,7 @@ Whril API is a serverless API gateway built using Node.js and Express, utilizing
 
 - **Monitoring:** Monitor the health and performance of your API Gateway with built-in tools.
 
-- **Google Cloud Functions:** Deploy Whril API effortlessly on Google Cloud Functions, taking advantage of the serverless infrastructure.
+- **Google Cloud Functions:** Deploy whirl API effortlessly on Google Cloud Functions, taking advantage of the serverless infrastructure.
 
 - **Functions Framework:** Use the Functions Framework to simplify the deployment process and focus on writing code.
 
@@ -33,12 +33,12 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/its-saran/whril-api.git
+    git clone https://github.com/its-saran/whirl-api.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd whril-api
+    cd whirl-api
 
 3. Install dependencies:
 
@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 
     - Example endpoints are shown in config.json
 
-4. Run the Whril API locally:
+4. Run the whirl API locally:
 
     ```bash=
     npm start
